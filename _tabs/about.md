@@ -6,8 +6,6 @@ order: 4
 
 **Case Compass** is a student-driven initiative to make Philippine jurisprudence easier to digest and understand. 
 
-Law students, bar reviewees, and even practitioners can all benefit from clear and concise case summaries — without losing sight of the essentials.  
-
 This site organizes **case digests** by topic and provides a quick reference for study and review, including both A.I. generated digests, but also the neatly formatted source materials.
 
 ### 🎯 Mission
