@@ -42,18 +42,17 @@ Ponente: Justice Makasiar
 ---
 
 ## Issues
-- 1. Whether respondent violated Article 1491, paragraph 5, of the New Civil Code by acquiring by purchase a portion of Lot No. 1184-E that was in litigation in Civil Case No. 3010.  
-- 2. Whether respondent violated Article 14 of the Code of Commerce, RA 3019, Civil Service Rules, and Canon 25 by associating with Traders Manufacturing and Fishing Industries, Inc. as a stockholder and officer while a judge.  
-- 3. Whether respondent engaged in coddling an impostor and disregarded judicial decorum by fraternizing with Dominador Arigpa Tan.  
-- 4. Whether respondent’s conduct showed culpable defiance of the law and utter disregard for ethics.
+1. Whether respondent violated Article 1491, paragraph 5, of the New Civil Code by acquiring by purchase a portion of Lot No. 1184-E that was in litigation in Civil Case No. 3010. 2. Whether respondent violated Article 14 of the Code of Commerce, RA 3019, Civil Service Rules, and Canon 25 by associating with Traders Manufacturing and Fishing Industries, Inc. as a stockholder and officer while a judge.
+3. Whether respondent engaged in coddling an impostor and disregarded judicial decorum by fraternizing with Dominador Arigpa Tan.  
+4. Whether respondent’s conduct showed culpable defiance of the law and utter disregard for ethics.
 
 ---
 
 ## Ruling
-- 1. No — the purchase occurred after the finality of the June 1963 decision and the October 1963/November 1963 orders approving the partition; the lot was no longer subject to litigation at the time of the sale to the respondent.  
-- 2. No — Article 14 of the Code of Commerce is deemed abrogated after the change of sovereignty; there was no proven interference by respondent in TRADERS’ affairs, and RA 3019, Civil Service Rules, and related provisions do not establish liability under the circumstances; however, the impropriety of private investment by a judge remains.  
-- 3. No — there is no sufficient evidence that respondent’s social relations with Dominador Arigpa Tan influenced his official acts; fraternization alone did not establish a disciplinary violation.  
-- 4. No — the record does not demonstrate culpable defiance of law or ethical disregard; however, Canon 25 requires caution and propriety.
+1. No — the purchase occurred after the finality of the June 1963 decision and the October 1963/November 1963 orders approving the partition; the lot was no longer subject to litigation at the time of the sale to the respondent.  
+2. No — Article 14 of the Code of Commerce is deemed abrogated after the change of sovereignty; there was no proven interference by respondent in TRADERS’ affairs, and RA 3019, Civil Service Rules, and related provisions do not establish liability under the circumstances; however, the impropriety of private investment by a judge remains.  
+3. No — there is no sufficient evidence that respondent’s social relations with Dominador Arigpa Tan influenced his official acts; fraternization alone did not establish a disciplinary violation.  
+4. No — the record does not demonstrate culpable defiance of law or ethical disregard; however, Canon 25 requires caution and propriety.
 
 ---
 
