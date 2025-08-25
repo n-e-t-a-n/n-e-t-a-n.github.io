@@ -42,7 +42,8 @@ Ponente: Justice Makasiar
 ---
 
 ## Issues
-1. Whether respondent violated Article 1491, paragraph 5, of the New Civil Code by acquiring by purchase a portion of Lot No. 1184-E that was in litigation in Civil Case No. 3010. 2. Whether respondent violated Article 14 of the Code of Commerce, RA 3019, Civil Service Rules, and Canon 25 by associating with Traders Manufacturing and Fishing Industries, Inc. as a stockholder and officer while a judge.
+1. Whether respondent violated Article 1491, paragraph 5, of the New Civil Code by acquiring by purchase a portion of Lot No. 1184-E that was in litigation in Civil Case No. 3010.
+2. Whether respondent violated Article 14 of the Code of Commerce, RA 3019, Civil Service Rules, and Canon 25 by associating with Traders Manufacturing and Fishing Industries, Inc. as a stockholder and officer while a judge.
 3. Whether respondent engaged in coddling an impostor and disregarded judicial decorum by fraternizing with Dominador Arigpa Tan.  
 4. Whether respondent’s conduct showed culpable defiance of the law and utter disregard for ethics.
 
