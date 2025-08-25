@@ -4,9 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**Case Compass** is a student-driven initiative to make Philippine jurisprudence easier to digest and understand. 
+**Case Compass** is a student-driven initiative to make Philippine jurisprudence easier to understand. 
 
-This site organizes **case digests** by topic and provides a quick reference for study and review, including both A.I. generated digests, but also the neatly formatted source materials.
+This site organizes **case digests** by topic and provides a quick reference for study and review, powered by A.I. generated summaries. 
+
+**This is not a substitute for reading the original source material, and only serves as an additional tool that can aid in the learning process**.
 
 ### 🎯 Mission
 - To simplify jurisprudence for better learning  
