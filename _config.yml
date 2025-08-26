@@ -167,6 +167,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  rules:
+    output: true
+    permalink: /rules/:title
 
 defaults:
   - scope:
