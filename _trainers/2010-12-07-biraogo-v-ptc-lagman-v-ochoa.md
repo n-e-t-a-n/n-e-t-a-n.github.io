@@ -1,5 +1,5 @@
 ---
-title: The Philippine Truth Commission of 2010: Biraogo v. Aquino (G.R. Nos. 192935, 193036)
+title: The Philippine Truth Commission of 2010 - Biraogo v. Aquino (G.R. Nos. 192935, 193036)
 excerpt: The Supreme Court held Executive Order No. 1, creating the Philippine Truth Commission of 2010, unconstitutional on equal-protection grounds, while recognizing the President’s power to appoint ad hoc fact-finding bodies within constitutional limits.
 date: 2010-12-07
 layout: post
