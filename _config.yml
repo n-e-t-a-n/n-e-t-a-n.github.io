@@ -170,6 +170,9 @@ collections:
   rules:
     output: true
     permalink: /rules/:title
+  trainers:
+    output: true
+    sort_by: order
 
 defaults:
   - scope:
