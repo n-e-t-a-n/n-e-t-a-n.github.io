@@ -1,5 +1,5 @@
 ---
-title: "<Ulep v. The Legal Clinic>"
+title: "Ulep v. The Legal Clinic"
 slug: "1993-06-17-ulep-v-legal-clinic"
 date: "1993-06-17"
 court: "Supreme Court"
