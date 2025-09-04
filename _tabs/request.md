@@ -37,7 +37,7 @@ document.getElementById('urlForm').addEventListener('submit', async (e) => {
     return;
   }
 
-  responseDiv.innerHTML = "Processing your request...";
+  responseDiv.innerHTML = "Processing your request... You can leave this page and come back later.";
 
   try {
     const res = await fetch('https://lawdigestrequests.onrender.com/digest', { 
